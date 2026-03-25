@@ -25,3 +25,26 @@
     text-align: center;
 }
 
+.card {
+    background-color: aqua;
+    border: 3px solid pink;
+    padding: 20px;
+}
+
+.warning {
+    color: red;
+    font-style: oblique;
+    background-color: black;
+}
+
+.img-style {
+    border: 5px solid blue;
+    border-radius: 25px;
+}
+
+.badge {
+    background-color: greenyellow;
+    border-radius: 15px;
+    padding: 10px;
+}
+
